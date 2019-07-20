@@ -1,0 +1,128 @@
+{
+    "countries": [ 
+        {
+            "id": 1,
+            "name": "USA",
+            "groups": [ 
+                {   
+                    "id": 2, 
+                    "name": "Nirvana", 
+                    "albums": [
+                        {
+                            "id": 3,
+                            "name": "Bleach"
+                        }, 
+                        {
+                            "id": 4, 
+                            "name": "Nevermind"
+                        }, 
+                        {
+                            "id": 5, 
+                            "name": "In Utero"
+                        }
+                    ]
+                },
+                {   
+                    "id": 6, 
+                    "name": "Offspring",
+                    "albums": [
+                        {
+                            "id": 7, 
+                            "name": "Ignition"
+                        }, 
+                        {
+                            "id": 8,
+                            "name": "Smash"
+                        }, 
+                        {
+                            "id": 9, 
+                            "name": "Americana"
+                        }
+                    ]
+                },
+                {   
+                    "id": 10, 
+                    "name": "RHCP",
+                    "albums": [ 
+                        {
+                            "id": 10, 
+                            "name": "The Red Hot Chili Peppers"
+                        },
+                        {
+                            "id": 11, 
+                            "name": "Californication"
+                        }, 
+                        {
+                            "id": 12, 
+                            "name": "By the Way"
+                        }, 
+                        {
+                            "id": 13, 
+                            "name": "One Hot Minute"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 14, 
+            "name": "Russia",
+            "groups": [ 
+                {
+                    "id": 15,
+                    "name": "Splean",
+                    "albums": [
+                        {
+                            "id": 16, 
+                            "name": "Pomegranate Album"
+                        },
+                        {
+                            "id": 17, 
+                            "name": "New People"
+                        },
+                        {
+                            "id": 18, 
+                            "name": "Signal from Space"
+                        },
+                        {
+                            "id": 19, 
+                            "name": "Altavista"
+                        }
+                    ]
+                },
+                {
+                    "id": 20, 
+                    "name": "Kino",
+                    "albums": [
+                        {
+                            "id": 21, 
+                            "name": "Gruppa krovi"
+                        },
+                        {
+                            "id": 22, 
+                            "name": "Zvezda po imeni Solntse"
+                        },
+                        {
+                            "id": 23, 
+                            "name": "Chyorny albom"
+                        }
+                    ]
+                },
+                {
+                    "id": 24,
+                    "name": "AgathaChristie",
+                    "albums": [
+                        {
+                            "id": 25, 
+                            "name": "Decadence"
+                        },
+                        {
+                            "id": 26, 
+                            "name": "Opium"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
